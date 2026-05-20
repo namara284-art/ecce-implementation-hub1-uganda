@@ -1,0 +1,179 @@
+{
+  "items": [
+    {
+      "item_id": "centre-category",
+      "category": "Centre identity and service category",
+      "question": "Has the centre clearly identified its service category such as day care, pre-primary, nursery/kindergarten, community-based, home-based or attached centre?",
+      "action": "Confirm the service category because registration, licensing, inspection and standards requirements depend on the type of ECCE provision.",
+      "source_label": "ECCE Policy and Standards on ECCE categories and service delivery"
+    },
+    {
+      "item_id": "ownership-management",
+      "category": "Governance and management",
+      "question": "Are ownership, management and responsible persons clearly documented?",
+      "action": "Prepare ownership and management records, including the person responsible for day-to-day centre operations.",
+      "source_label": "ECCE Policy provisions on establishment and management of ECCE centres"
+    },
+    {
+      "item_id": "local-government-contact",
+      "category": "Registration and licensing",
+      "question": "Has the proprietor contacted the relevant District, City or Municipal education office about registration or licensing?",
+      "action": "Engage the relevant Local Government education office and request the official registration/licensing pathway.",
+      "source_label": "ECCE Policy and Standards on Local Government licensing role"
+    },
+    {
+      "item_id": "registration-status",
+      "category": "Registration and licensing",
+      "question": "Has the centre prepared documents required for registration or EMIS onboarding?",
+      "action": "Prepare the formal application information, proof of Local Government registration where applicable and the nearest primary school EMIS number.",
+      "source_label": "Guidelines on EMIS onboarding and ECCE centre profiling"
+    },
+    {
+      "item_id": "licence-validity",
+      "category": "Registration and licensing",
+      "question": "Does the centre have a valid licence or a clear plan to apply for one?",
+      "action": "Prepare for licensing through the relevant Local Government authority and track renewal timelines.",
+      "source_label": "ECCE Standards on licensing and renewal"
+    },
+    {
+      "item_id": "teacher-records",
+      "category": "Workforce",
+      "question": "Are teacher and caregiver records available and up to date?",
+      "action": "Compile staff lists, qualifications, registration status, contracts and deployment records.",
+      "source_label": "ECCE Policy and Standards on professionalisation and teacher/caregiver registration"
+    },
+    {
+      "item_id": "teacher-registration",
+      "category": "Workforce",
+      "question": "Are pre-primary teachers registered or preparing for registration under the relevant teacher framework?",
+      "action": "Verify teacher registration requirements and support teachers to prepare required records.",
+      "source_label": "ECCE Standards on teacher registration and licensing"
+    },
+    {
+      "item_id": "staff-child-ratio",
+      "category": "Workforce",
+      "question": "Does the centre have enough adults to safely supervise children?",
+      "action": "Review staffing levels against applicable standards and take corrective action where supervision is weak.",
+      "source_label": "BRMS and ECCE Standards on staffing and supervision"
+    },
+    {
+      "item_id": "child-protection-policy",
+      "category": "Child safety and protection",
+      "question": "Does the centre have clear child safety and protection procedures?",
+      "action": "Put in place written child protection procedures, reporting steps and staff orientation.",
+      "source_label": "ECCE Policy provisions on child safety and protection"
+    },
+    {
+      "item_id": "complaints-reporting",
+      "category": "Child safety and protection",
+      "question": "Can parents, staff and community members safely report concerns?",
+      "action": "Create a simple complaints and reporting pathway for unsafe environments, unethical behaviour, licensing concerns and child safety issues.",
+      "source_label": "ECCE Standards on complaints and reporting"
+    },
+    {
+      "item_id": "safe-premises",
+      "category": "Safety and security",
+      "question": "Are the premises safe for young children, with obvious hazards identified and managed?",
+      "action": "Check entrances, exits, play areas, classrooms, compounds, sharp objects, unsafe water points and other hazards.",
+      "source_label": "BRMS and ECCE Standards on safety and security"
+    },
+    {
+      "item_id": "emergency-preparedness",
+      "category": "Safety and security",
+      "question": "Does the centre have basic emergency procedures?",
+      "action": "Prepare basic procedures for fire, injury, illness, missing child incidents and emergency contacts.",
+      "source_label": "BRMS on safety, security and emergency preparedness"
+    },
+    {
+      "item_id": "wash-facilities",
+      "category": "WASH and sanitation",
+      "question": "Are age-appropriate toilets, handwashing facilities and safe water available?",
+      "action": "Improve sanitation, handwashing and water access before inspection or licensing follow-up.",
+      "source_label": "BRMS and ECCE quality standards on WASH"
+    },
+    {
+      "item_id": "cleanliness",
+      "category": "WASH and sanitation",
+      "question": "Are classrooms, play spaces, toilets and feeding areas clean and child-friendly?",
+      "action": "Set daily cleaning routines and assign responsibility for hygiene monitoring.",
+      "source_label": "BRMS on health, hygiene and safe learning environments"
+    },
+    {
+      "item_id": "learning-space",
+      "category": "Learning environment",
+      "question": "Is there adequate indoor and outdoor space for play and early learning?",
+      "action": "Review classroom arrangement, outdoor play access and safe movement for children.",
+      "source_label": "BRMS and ECCE Standards on learning environment"
+    },
+    {
+      "item_id": "play-materials",
+      "category": "Learning environment",
+      "question": "Does the centre have safe, age-appropriate play and learning materials?",
+      "action": "Provide locally available, safe and age-appropriate play materials that support holistic development.",
+      "source_label": "ECCE Policy guidance on play-based learning and holistic development"
+    },
+    {
+      "item_id": "curriculum-pedagogy",
+      "category": "Curriculum and pedagogy",
+      "question": "Are teachers using age-appropriate, play-based and child-centred methods?",
+      "action": "Orient teachers/caregivers on age-appropriate play, early learning and responsive caregiving practices.",
+      "source_label": "ECCE Policy and curriculum guidance"
+    },
+    {
+      "item_id": "health-records",
+      "category": "Health, nutrition and wellbeing",
+      "question": "Does the centre keep basic child health and emergency contact information?",
+      "action": "Maintain emergency contacts and relevant child health information while protecting confidentiality.",
+      "source_label": "ECCE Policy linkages to health and child wellbeing"
+    },
+    {
+      "item_id": "nutrition-feeding",
+      "category": "Health, nutrition and wellbeing",
+      "question": "Are feeding arrangements safe, hygienic and appropriate for young children?",
+      "action": "Review feeding arrangements, hygiene, food safety and supervision during meals.",
+      "source_label": "BRMS and ECCE Policy linkages to nutrition"
+    },
+    {
+      "item_id": "parent-engagement",
+      "category": "Parent and community engagement",
+      "question": "Does the centre communicate regularly with parents and caregivers?",
+      "action": "Create simple channels for parent communication, meetings, feedback and child progress updates.",
+      "source_label": "ECCE Policy provisions on parent and community engagement"
+    },
+    {
+      "item_id": "parenting-support",
+      "category": "Parent and community engagement",
+      "question": "Does the centre support parents with information on early learning, care, safety and wellbeing?",
+      "action": "Use parent meetings and simple messages to support parenting practices and home learning.",
+      "source_label": "ECCE Policy provisions on parenting programmes"
+    },
+    {
+      "item_id": "records-management",
+      "category": "Records and administration",
+      "question": "Are enrolment, attendance, staffing, finance and incident records properly kept?",
+      "action": "Set up simple registers and file systems for core centre records.",
+      "source_label": "BRMS and standards on management and accountability"
+    },
+    {
+      "item_id": "inspection-readiness",
+      "category": "Inspection and supervision",
+      "question": "Can the centre provide required records and access during routine or unannounced inspection?",
+      "action": "Keep documents accessible and prepare staff to cooperate with inspection and support supervision.",
+      "source_label": "ECCE Standards on routine and unannounced inspections"
+    },
+    {
+      "item_id": "referral-linkages",
+      "category": "Referral and support linkages",
+      "question": "Does the centre know where to refer children or families for health, nutrition, protection or sanitation support?",
+      "action": "Identify local referral contacts for health, child protection, nutrition, sanitation and family support.",
+      "source_label": "ECCE Policy provisions on referrals and multisectoral linkages"
+    },
+    {
+      "item_id": "improvement-plan",
+      "category": "Improvement planning",
+      "question": "Does the centre have a written improvement plan for gaps identified through self-check or inspection?",
+      "action": "Prepare an improvement plan with actions, responsible persons, timelines and support needed.",
+      "source_label": "ECCE implementation guidance on quality improvement and compliance follow-up"
+    }
+  ]
+}

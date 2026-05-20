@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "item_id": "emis-registration",
+      "compliance_area": "Registration and EMIS",
+      "question": "Has the centre applied for registration through EMIS or prepared the information required for EMIS onboarding?",
+      "corrective_action": "Prepare a formal registration application, proof of Local Government registration and the EMIS number of the nearest primary school.",
+      "source_label": "Standards S19 and Guidelines G156\u2013G158",
+      "source_chunk_ids": [
+        "STD-2025-023-S19-C01",
+        "GUI-2025-156-G156-C01"
+      ]
+    },
+    {
+      "item_id": "local-license",
+      "compliance_area": "Licensing",
+      "question": "Has the centre applied for licensing through the relevant District, City or Municipal Local Government?",
+      "corrective_action": "Contact the Local Government education office, request the official licensing process and prepare for a compliance assessment.",
+      "source_label": "Standard S20 and ECCE Policy paragraph 63",
+      "source_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ]
+    },
+    {
+      "item_id": "license-renewal",
+      "compliance_area": "Licence renewal",
+      "question": "Is there a system to track licence validity and prepare for renewal?",
+      "corrective_action": "Create a licence calendar and prepare for periodic renewal.",
+      "source_label": "Standard S23 and ECCE Policy paragraph 33",
+      "source_chunk_ids": [
+        "STD-2025-023-S23-C01",
+        "POL-2025-06-P33-C01"
+      ]
+    },
+    {
+      "item_id": "teacher-registration",
+      "compliance_area": "Teacher registration",
+      "question": "Are pre-primary teachers registered and licensed in line with the National Teacher Policy and National Teachers Act requirements?",
+      "corrective_action": "Compile teacher qualification, identification and registration records, then verify requirements with the National Teacher Council process.",
+      "source_label": "Standards S24\u2013S26",
+      "source_chunk_ids": [
+        "STD-2025-023-S24-C01",
+        "STD-2025-023-S26-C01"
+      ]
+    },
+    {
+      "item_id": "inspection-readiness",
+      "compliance_area": "Inspection readiness",
+      "question": "Is the centre ready for routine or unannounced inspection?",
+      "corrective_action": "Keep centre records, safety information, staffing details, learning environment evidence and compliance documents available for inspection.",
+      "source_label": "Standard S38",
+      "source_chunk_ids": [
+        "STD-2025-023-S38-C01"
+      ]
+    },
+    {
+      "item_id": "complaints-system",
+      "compliance_area": "Complaints and reporting",
+      "question": "Does the centre have a safe way for parents and community members to report concerns?",
+      "corrective_action": "Create a simple complaints and reporting pathway for unsafe environments, unethical behaviour or licensing concerns.",
+      "source_label": "Standard S37",
+      "source_chunk_ids": [
+        "STD-2025-023-S37-C01"
+      ]
+    },
+    {
+      "item_id": "public-register",
+      "compliance_area": "Public verification",
+      "question": "Can parents verify whether the centre and staff are legitimate and compliant?",
+      "corrective_action": "Work with Local Government to make sure the centre appears in the relevant register and keep teacher/caregiver records available for verification.",
+      "source_label": "Standard S39",
+      "source_chunk_ids": [
+        "STD-2025-023-S39-C01"
+      ]
+    },
+    {
+      "item_id": "programme-category",
+      "compliance_area": "Institution category",
+      "question": "Is the centre clear on whether it provides formal ECCE, non-formal ECCE, day care or pre-primary education?",
+      "corrective_action": "Classify the service correctly because registration, licensing and standards may differ by programme type.",
+      "source_label": "ECCE Policy paragraph 32 and Standard S40",
+      "source_chunk_ids": [
+        "POL-2025-06-P32-C01",
+        "STD-2025-023-S40-C01"
+      ]
+    }
+  ]
+}

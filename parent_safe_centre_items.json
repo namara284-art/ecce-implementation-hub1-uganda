@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "item_id": "known-centre",
+      "category": "Registration and accountability",
+      "question": "Is the centre known by the Local Government or able to explain its registration or licensing status?",
+      "action": "Ask the centre manager whether the centre is registered, licensed or in the process of registration. Ask which Local Government education office knows the centre.",
+      "warning": "A centre that refuses to discuss registration, licensing or responsible offices should be treated with caution.",
+      "source_label": "ECCE Policy and Standards on registration, licensing and accountability"
+    },
+    {
+      "item_id": "adult-supervision",
+      "category": "Supervision and caregiving",
+      "question": "Are children supervised by responsible adults throughout the day?",
+      "action": "Observe whether adults are present in classrooms, play areas, toilets, feeding areas and entrances.",
+      "warning": "Children left alone or supervised by very few adults is a serious safety concern.",
+      "source_label": "BRMS and ECCE Standards on supervision"
+    },
+    {
+      "item_id": "warm-care",
+      "category": "Responsive care",
+      "question": "Do caregivers speak to children warmly and respectfully?",
+      "action": "Watch how caregivers respond when children cry, ask questions, make mistakes or need help.",
+      "warning": "Shouting, humiliation, fear, harsh punishment or rough handling are red flags.",
+      "source_label": "ECCE Policy guidance on nurturing care and child wellbeing"
+    },
+    {
+      "item_id": "violence-free",
+      "category": "Child protection",
+      "question": "Does the centre prohibit violence, harsh punishment, neglect and unsafe discipline?",
+      "action": "Ask how the centre disciplines children and how staff are guided on child protection.",
+      "warning": "Be concerned if beating, isolation, threats, insults or fear are treated as normal discipline.",
+      "source_label": "ECCE Policy and Standards on child safety and protection"
+    },
+    {
+      "item_id": "reporting-concerns",
+      "category": "Child protection",
+      "question": "Is there a safe way for parents to report concerns?",
+      "action": "Ask who parents should contact if a child is hurt, mistreated, neglected or unsafe.",
+      "warning": "A centre without a complaints or reporting pathway may fail to respond to harm quickly.",
+      "source_label": "ECCE Standards on complaints and reporting"
+    },
+    {
+      "item_id": "safe-premises",
+      "category": "Physical safety",
+      "question": "Are the buildings, classrooms and compound safe for young children?",
+      "action": "Look for safe floors, doors, windows, fences, play areas and clear movement spaces.",
+      "warning": "Open hazards, broken structures, unsafe water points, sharp objects or unsecured compounds need urgent attention.",
+      "source_label": "BRMS and ECCE Standards on safety and security"
+    },
+    {
+      "item_id": "toilets",
+      "category": "WASH and sanitation",
+      "question": "Are toilets clean, accessible and suitable for young children?",
+      "action": "Ask to see the toilets and handwashing area before enrolling or during centre visits.",
+      "warning": "Dirty, inaccessible or unsafe toilets can expose children to illness and fear.",
+      "source_label": "BRMS on sanitation and child-friendly facilities"
+    },
+    {
+      "item_id": "handwashing-water",
+      "category": "WASH and sanitation",
+      "question": "Is there safe water and a place for children to wash hands?",
+      "action": "Check whether children can wash hands after using the toilet and before eating.",
+      "warning": "Lack of safe water and handwashing facilities is a health risk.",
+      "source_label": "BRMS on hygiene, water and sanitation"
+    },
+    {
+      "item_id": "clean-environment",
+      "category": "Health and hygiene",
+      "question": "Are classrooms, play spaces and feeding areas clean?",
+      "action": "Observe the cleanliness of floors, mats, toys, cups, plates, sleeping areas and play materials.",
+      "warning": "Bad smells, dirty feeding spaces, unsafe waste or visibly unclean rooms should be addressed.",
+      "source_label": "BRMS on health, hygiene and safe learning environments"
+    },
+    {
+      "item_id": "safe-feeding",
+      "category": "Food and nutrition",
+      "question": "Are feeding arrangements safe and hygienic?",
+      "action": "Ask how food is prepared, served, supervised and communicated to parents.",
+      "warning": "Unsupervised meals, unsafe food handling or unclear feeding arrangements can put children at risk.",
+      "source_label": "ECCE Policy and BRMS linkages to nutrition and wellbeing"
+    },
+    {
+      "item_id": "emergency-contact",
+      "category": "Health and emergency care",
+      "question": "Does the centre keep parent contacts and know what to do in an emergency?",
+      "action": "Confirm that the centre has your contact, alternative contacts and a clear emergency procedure.",
+      "warning": "A centre that cannot quickly contact parents during illness, injury or emergencies is not prepared.",
+      "source_label": "BRMS on emergency preparedness and child wellbeing"
+    },
+    {
+      "item_id": "play-learning",
+      "category": "Play and learning",
+      "question": "Do children learn through play, songs, stories, movement and age-appropriate activities?",
+      "action": "Look for play materials, story time, songs, outdoor play and child-friendly learning activities.",
+      "warning": "Very young children sitting silently for long periods or being forced into formal academic work may not be receiving age-appropriate care.",
+      "source_label": "ECCE Policy guidance on play-based early learning"
+    },
+    {
+      "item_id": "safe-play-materials",
+      "category": "Play and learning",
+      "question": "Are play and learning materials safe for young children?",
+      "action": "Check whether toys and materials are clean, not sharp, not choking hazards and suitable for age.",
+      "warning": "Broken, dirty, sharp or unsafe objects used as play materials should be removed.",
+      "source_label": "BRMS and ECCE Standards on learning materials"
+    },
+    {
+      "item_id": "parent-access",
+      "category": "Parent engagement",
+      "question": "Are parents allowed to ask questions and receive updates about their child?",
+      "action": "Ask how often the centre communicates with parents about attendance, wellbeing, learning and concerns.",
+      "warning": "A centre that discourages parent questions or blocks reasonable visits should be treated with caution.",
+      "source_label": "ECCE Policy provisions on parent and community engagement"
+    },
+    {
+      "item_id": "child-happiness",
+      "category": "Child wellbeing",
+      "question": "Do children appear safe, engaged and comfortable?",
+      "action": "Observe whether children seem fearful, withdrawn, unattended, distressed or unusually quiet around adults.",
+      "warning": "Repeated fear, distress, unexplained injuries or sudden behaviour changes should be followed up immediately.",
+      "source_label": "ECCE Policy on child wellbeing, protection and nurturing care"
+    },
+    {
+      "item_id": "arrival-pickup",
+      "category": "Safety and security",
+      "question": "Does the centre manage child arrival and pick-up safely?",
+      "action": "Ask who is allowed to pick children, how this is recorded and how strangers are handled.",
+      "warning": "Children released without checking the caregiver or parent is a serious safety risk.",
+      "source_label": "BRMS on safety, security and centre management"
+    },
+    {
+      "item_id": "inclusive-care",
+      "category": "Inclusion",
+      "question": "Are children with disabilities or additional needs welcomed and supported respectfully?",
+      "action": "Ask how the centre supports children who need extra help, assistive support or referral.",
+      "warning": "Refusal, stigma, isolation or neglect of children with additional needs is unacceptable.",
+      "source_label": "ECCE Policy principles on inclusion and equity"
+    },
+    {
+      "item_id": "sleep-rest",
+      "category": "Care routines",
+      "question": "Are rest, sleep and personal care routines safe and supervised?",
+      "action": "Ask where children rest, who supervises them and how hygiene is maintained.",
+      "warning": "Unsupervised sleeping areas, overcrowding or unsafe bedding can put children at risk.",
+      "source_label": "BRMS on health, care routines and safe environments"
+    },
+    {
+      "item_id": "transport",
+      "category": "Transport and movement",
+      "question": "If transport is provided, is it safe and supervised?",
+      "action": "Ask who transports children, how attendance is checked and whether children are supervised during movement.",
+      "warning": "Unsupervised transport or unclear pick-up/drop-off arrangements are serious safety concerns.",
+      "source_label": "ECCE Standards on child safety and movement"
+    },
+    {
+      "item_id": "trusted-instinct",
+      "category": "Parent confidence",
+      "question": "Do you feel comfortable leaving your child at this centre after asking questions and observing?",
+      "action": "Trust your observations. Ask more questions, speak to other parents and seek guidance if something feels unsafe.",
+      "warning": "A parent’s concern should be taken seriously, especially where a child’s safety or wellbeing may be affected.",
+      "source_label": "ECCE Policy emphasis on parent engagement and child wellbeing"
+    }
+  ]
+}

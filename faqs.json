@@ -1,0 +1,854 @@
+{
+  "faqs": [
+    {
+      "faq_number": 1,
+      "question": "What is ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P23-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 2,
+      "question": "What age groups does the ECCE Policy cover?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 3,
+      "question": "What is the difference between day care and pre-primary education?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 4,
+      "question": "Why is ECCE important?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 5,
+      "question": "What is the vision of the ECCE Policy?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P19-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 6,
+      "question": "What is the mission of the ECCE Policy?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P20-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 7,
+      "question": "What is the goal of the ECCE Policy?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P21-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 8,
+      "question": "What are the specific objectives of the ECCE Policy?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 9,
+      "question": "What principles guide ECCE implementation?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 10,
+      "question": "What does the Policy say about child welfare?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 11,
+      "question": "Who registers pre-primary schools?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S19-C01",
+        "GUI-2025-156-G156-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 12,
+      "question": "Who licenses pre-primary schools?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 13,
+      "question": "Who registers and licenses other ECCE providers?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 14,
+      "question": "Can an ECCE provider operate without registration and licensing?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 15,
+      "question": "Does an ECCE licence need to be renewed?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 16,
+      "question": "What should a proprietor prepare before applying for licensing?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 17,
+      "question": "What is required for EMIS onboarding?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S19-C01",
+        "GUI-2025-156-G156-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 18,
+      "question": "Why is the nearest primary school EMIS number needed?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S19-C01",
+        "GUI-2025-156-G156-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 19,
+      "question": "What happens when an ECCE centre operates without registration?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 20,
+      "question": "Can an ECCE centre operate as a boarding institution?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 21,
+      "question": "Do pre-primary teachers need to be registered and licensed?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 22,
+      "question": "Can someone teach in a pre-primary school without registration and licensing?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 23,
+      "question": "Who enforces teacher registration and licensing?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 24,
+      "question": "What does the Policy say about professionalising ECCE personnel?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 25,
+      "question": "What is CPD for ECCE teachers and caregivers?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P34-C01",
+        "STD-2025-023-S24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 26,
+      "question": "What should proprietors do to retain ECCE staff?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 27,
+      "question": "Who develops teaching guides for ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 28,
+      "question": "Who coordinates ECCE training and assessment?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 29,
+      "question": "What are BRMS?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 30,
+      "question": "What are ELDS?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 31,
+      "question": "Who sets ECCE standards?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 32,
+      "question": "Who checks whether ECCE centres meet standards?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 33,
+      "question": "Can ECCE centres be inspected without prior notice?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S38-C01",
+        "POL-2025-06-P33-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 34,
+      "question": "What happens if a centre fails to meet licensing standards?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 35,
+      "question": "What is the complaint and reporting system for?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S37-C01",
+        "POL-2025-06-P37-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 36,
+      "question": "How can parents verify whether staff are legitimate?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P39-C01",
+        "POL-2025-06-P40-C01",
+        "POL-2025-08-P70-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 37,
+      "question": "What is formal ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 38,
+      "question": "What is non-formal ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 39,
+      "question": "What is the role of MoES?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P57-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 40,
+      "question": "What is the role of Local Governments?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 41,
+      "question": "What is the role of OPM?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 42,
+      "question": "What is the role of MoGLSD?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P60-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 43,
+      "question": "What is the role of MoH?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P61-C01",
+        "POL-2025-06-P48-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 44,
+      "question": "What is the role of MoFPED?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 45,
+      "question": "What is the role of Civil Society?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P67-C01",
+        "POL-2025-08-P65-C01",
+        "POL-2025-08-P66-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 46,
+      "question": "What is the role of the private sector?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P67-C01",
+        "POL-2025-08-P65-C01",
+        "POL-2025-08-P66-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 47,
+      "question": "What is the role of Education Development Partners?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P67-C01",
+        "POL-2025-08-P65-C01",
+        "POL-2025-08-P66-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 48,
+      "question": "What is the role of parents and guardians?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P39-C01",
+        "POL-2025-06-P40-C01",
+        "POL-2025-08-P70-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 49,
+      "question": "What does the Policy say about parenting programmes?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P39-C01",
+        "POL-2025-06-P40-C01",
+        "POL-2025-08-P70-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 50,
+      "question": "How should districts mobilise communities around ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 51,
+      "question": "What should parents look for in a safe ECCE centre?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P39-C01",
+        "POL-2025-06-P40-C01",
+        "POL-2025-08-P70-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 52,
+      "question": "How should ECCE messages be packaged for communities?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 53,
+      "question": "What is the role of annual advocacy events and campaigns?",
+      "primary_chunk_ids": [
+        "POL-2025-10-P78-C01",
+        "POL-2025-10-P76-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 54,
+      "question": "Why does the Policy require a communication strategy?",
+      "primary_chunk_ids": [
+        "POL-2025-10-P78-C01",
+        "POL-2025-10-P76-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 55,
+      "question": "What does the Policy say about EMIS?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S19-C01",
+        "GUI-2025-156-G156-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 56,
+      "question": "Why should ECCE centres be linked to primary schools?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 57,
+      "question": "What data should ECCE centres provide?",
+      "primary_chunk_ids": [
+        "POL-2025-09-P72-C01",
+        "POL-2025-09-P73-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 58,
+      "question": "What is the purpose of the ECCE baseline survey?",
+      "primary_chunk_ids": [
+        "POL-2025-09-P72-C01",
+        "POL-2025-09-P73-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 59,
+      "question": "What is the purpose of M&E under the ECCE Policy?",
+      "primary_chunk_ids": [
+        "POL-2025-09-P72-C01",
+        "POL-2025-09-P73-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 60,
+      "question": "How should research support ECCE implementation?",
+      "primary_chunk_ids": [
+        "POL-2025-09-P72-C01",
+        "POL-2025-09-P73-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 61,
+      "question": "What does the Policy say about equitable access?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 62,
+      "question": "How will Government support underserved communities?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 63,
+      "question": "When can Government directly provide ECCE services?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 64,
+      "question": "What does the Policy say about children with special needs?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 65,
+      "question": "What does the Policy say about affordability?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 66,
+      "question": "Who is responsible for establishing and managing ECCE centres?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 67,
+      "question": "Can Government invest directly in ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 68,
+      "question": "How will the ECCE Policy be financed?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 69,
+      "question": "How can partners support ECCE implementation?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P67-C01",
+        "POL-2025-08-P65-C01",
+        "POL-2025-08-P66-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 70,
+      "question": "What is the role of professional networks and associations?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 71,
+      "question": "What is the role of foundation bodies?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 72,
+      "question": "How should partners avoid duplication?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P67-C01",
+        "POL-2025-08-P65-C01",
+        "POL-2025-08-P66-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 73,
+      "question": "What does the Policy say about child protection?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P37-C01",
+        "POL-2025-08-P60-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 74,
+      "question": "What should a teacher do if they suspect abuse?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P34-C01",
+        "STD-2025-023-S24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 75,
+      "question": "How are health and nutrition linked to ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P61-C01",
+        "POL-2025-06-P48-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 76,
+      "question": "What health services does MoH provide in relation to ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P61-C01",
+        "POL-2025-06-P48-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 77,
+      "question": "What is the role of probation and family welfare systems?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P60-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 78,
+      "question": "What does occupational safety mean for ECCE centres?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P37-C01",
+        "POL-2025-08-P60-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 79,
+      "question": "Who develops ECCE curricula?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 80,
+      "question": "Who develops learning environment guidelines?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 81,
+      "question": "What does the Policy say about teaching methods and instructional materials?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 82,
+      "question": "What does the Policy say about school readiness?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 83,
+      "question": "How does ECCE support transition to primary education?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 84,
+      "question": "What cross-cutting issues does the Policy mainstream?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 85,
+      "question": "What does the Policy say about ICT in ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 86,
+      "question": "What does the Policy say about language and communication with children?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 87,
+      "question": "What does the Policy say about holistic development?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 88,
+      "question": "What should a district include in an ECCE implementation plan?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 89,
+      "question": "Who assigns ECCE responsibilities within Local Government structures?",
+      "primary_chunk_ids": [
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 90,
+      "question": "What does support supervision mean in ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P19-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 91,
+      "question": "What is a Centre Management Committee?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 92,
+      "question": "What is the role of social dialogue in ECCE?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 93,
+      "question": "Can ECCE AskDesk approve my centre for licensing?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S20-C01",
+        "POL-2025-08-P63-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 94,
+      "question": "Can ECCE AskDesk decide whether a teacher is legally allowed to teach?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P34-C01",
+        "STD-2025-023-S24-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 95,
+      "question": "Can I report a child protection case through ECCE AskDesk?",
+      "primary_chunk_ids": [
+        "POL-2025-06-P37-C01",
+        "POL-2025-08-P60-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 96,
+      "question": "Can the tool provide legal advice on ECCE disputes?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 97,
+      "question": "What should I do if a centre refuses inspection?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S38-C01",
+        "POL-2025-06-P33-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 98,
+      "question": "What should parents do if a centre appears unsafe?",
+      "primary_chunk_ids": [
+        "STD-2025-023-S37-C01",
+        "POL-2025-06-P37-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 99,
+      "question": "What if the Policy documents do not answer my question?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    },
+    {
+      "faq_number": 100,
+      "question": "What should users remember when using ECCE AskDesk?",
+      "primary_chunk_ids": [
+        "POL-2025-05-P22-C01"
+      ],
+      "approval_status": "verified_for_prototype_build"
+    }
+  ]
+}

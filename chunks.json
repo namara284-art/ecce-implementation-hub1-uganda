@@ -1,0 +1,1176 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "POL-2025-01-P02-C01",
+      "source_label": "ECCE Policy 2025, paragraph 2",
+      "section_title": "Policy Foundation",
+      "chunk_text": "The ECCE Policy restricts itself to interventions that benefit children from zero to six years of age.",
+      "topic_tags": [
+        "policy_foundation",
+        "access_equity_inclusion"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Teacher/Caregiver",
+        "Parent/Guardian",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-01-P03-C01",
+      "source_label": "ECCE Policy 2025, paragraph 3",
+      "section_title": "Introduction",
+      "chunk_text": "Quality ECCE services support holistic and lifelong learning, helping children acquire cognitive, linguistic, socio-emotional and self-regulation skills while contributing to human capital, health and nutrition outcomes.",
+      "topic_tags": [
+        "policy_foundation",
+        "parent_community_engagement"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Parent/Guardian",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-03-P14-C01",
+      "source_label": "ECCE Policy 2025, paragraph 14",
+      "section_title": "Problem Statement",
+      "chunk_text": "Quality ECCE is constrained by limited access, ineffective regulation, lack of knowledge on the value of ECCE, inconsistent family and community engagement, uncoordinated efforts, poverty, high cost of services and limited access to quality ECCE data.",
+      "topic_tags": [
+        "policy_foundation",
+        "registration_licensing",
+        "parent_community_engagement",
+        "monitoring_evaluation_data"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P19-C01",
+      "source_label": "ECCE Policy 2025, paragraph 19",
+      "section_title": "Policy Vision",
+      "chunk_text": "The Policy Vision is a country where there is equitable and sustainable access to quality Early Childhood Care and Education services.",
+      "topic_tags": [
+        "policy_foundation"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P20-C01",
+      "source_label": "ECCE Policy 2025, paragraph 20",
+      "section_title": "Policy Mission",
+      "chunk_text": "The Policy Mission is to support, standardise, guide, implement, coordinate, monitor, evaluate, regulate and promote quality, relevant and affordable ECCE services for increased access, equitable enrolment and smooth transition to primary education.",
+      "topic_tags": [
+        "policy_foundation",
+        "access_equity_inclusion",
+        "standards_compliance",
+        "monitoring_evaluation_data"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P21-C01",
+      "source_label": "ECCE Policy 2025, paragraph 21",
+      "section_title": "Policy Goal",
+      "chunk_text": "The Policy Goal is to attain adequate ECCE services to improve child growth and development, educational outcomes, health outcomes and socio-economic development.",
+      "topic_tags": [
+        "policy_foundation"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Parent/Guardian",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P22-C01",
+      "source_label": "ECCE Policy 2025, paragraph 22",
+      "section_title": "Policy Objectives",
+      "chunk_text": "The specific objectives are to increase equitable access to quality, inclusive and sustainable ECCE services; strengthen standardisation and management systems; increase public awareness and partnerships; increase MoES and Local Government capacity; and mainstream cross-cutting issues.",
+      "topic_tags": [
+        "policy_foundation",
+        "access_equity_inclusion",
+        "standards_compliance",
+        "parent_community_engagement",
+        "teacher_caregiver_support",
+        "cross_cutting_issues"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P23-C01",
+      "source_label": "ECCE Policy 2025, paragraph 23",
+      "section_title": "Definition of ECCE",
+      "chunk_text": "ECCE programmes provide children with care and a structured, purposeful set of learning activities either in formal institutions or non-formal child development programmes before primary education.",
+      "topic_tags": [
+        "policy_foundation",
+        "curriculum_learning_transition"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Teacher/Caregiver",
+        "Parent/Guardian"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P24-C01",
+      "source_label": "ECCE Policy 2025, paragraph 24",
+      "section_title": "Target Age Groups",
+      "chunk_text": "The ECCE Policy targets two categories of children: birth to three years and three to six years.",
+      "topic_tags": [
+        "policy_foundation",
+        "access_equity_inclusion"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Teacher/Caregiver",
+        "Parent/Guardian",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-05-P26-C01",
+      "source_label": "ECCE Policy 2025, paragraph 26",
+      "section_title": "Guiding Principles",
+      "chunk_text": "ECCE implementation is guided by effectiveness, efficiency, child welfare, holistic approach, equitable access and non-discrimination, appropriate partnerships and communication in familiar language. Decisions must be based on age-appropriate programming and the best interests of the child.",
+      "topic_tags": [
+        "policy_foundation",
+        "child_safety_protection",
+        "access_equity_inclusion",
+        "cross_cutting_issues"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "Teacher/Caregiver",
+        "Parent/Guardian"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P28-C01",
+      "source_label": "ECCE Policy 2025, paragraph 28",
+      "section_title": "Underserved Communities",
+      "chunk_text": "Government will increase access by identifying and allocating sustainable targeted subsidies for non-state ECCE provision in underserved communities and by developing strategies for learning materials and inputs in under-resourced communities.",
+      "topic_tags": [
+        "access_equity_inclusion",
+        "financing_partnerships"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P30-C01",
+      "source_label": "ECCE Policy 2025, paragraph 30",
+      "section_title": "Day Care and Pre-Primary",
+      "chunk_text": "Government will streamline quality ECCE through day care offered in homes or institutions for birth to three years and pre-primary programmes for children aged three to six years.",
+      "topic_tags": [
+        "registration_licensing",
+        "policy_foundation",
+        "curriculum_learning_transition"
+      ],
+      "role_tags": [
+        "ECCE Proprietor",
+        "District Officer",
+        "Parent/Guardian",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P31-C01",
+      "source_label": "ECCE Policy 2025, paragraph 31",
+      "section_title": "Direct Government Provision",
+      "chunk_text": "Government will engage in direct ECCE service delivery in areas with no viable private sector provider, as an affirmative intervention.",
+      "topic_tags": [
+        "access_equity_inclusion",
+        "financing_partnerships"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P32-C01",
+      "source_label": "ECCE Policy 2025, paragraph 32",
+      "section_title": "Licensing and Boarding Prohibition",
+      "chunk_text": "Government will license ECCE centres and primary schools to offer day care and pre-primary programmes. Licensing processes are managed by City, District, Municipal or Local Government authorities. ECCE centres are prohibited from operating as boarding institutions at registration or licensing stage.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance",
+        "inspection_supervision"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P33-C01",
+      "source_label": "ECCE Policy 2025, paragraph 33",
+      "section_title": "Provisional and Full Licensing",
+      "chunk_text": "There will be a provisional licence for one year followed by full licensing upon satisfactory service delivery and meeting Basic Requirements and Minimum Standards. Registered and licensed centres will be subject to periodic inspection, and licences may be revoked if quality is compromised.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance",
+        "inspection_supervision"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P34-C01",
+      "source_label": "ECCE Policy 2025, paragraph 34",
+      "section_title": "Professionalisation",
+      "chunk_text": "Professionalisation of ECCE personnel must be guided by an approved National Qualification Framework, accreditation systems and Continuous Professional Development in line with the National Teachers Policy and related structures.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "Teacher/Caregiver",
+        "ECCE Proprietor",
+        "District Officer",
+        "Inspector",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P35-C01",
+      "source_label": "ECCE Policy 2025, paragraph 35",
+      "section_title": "Teaching Standards and Retention",
+      "chunk_text": "Teaching and training standards must be enhanced through deliberate enforcement of improved qualifications of ECCE teachers and caregivers. Lawful providers must develop a staff retention strategy.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "Teacher/Caregiver",
+        "ECCE Proprietor",
+        "District Officer",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P36-C01",
+      "source_label": "ECCE Policy 2025, paragraph 36",
+      "section_title": "Centre Management Committees",
+      "chunk_text": "The management of ECCE centres will follow standards, guidelines and procedures on centre establishment, including provisions on Centre Management Committees.",
+      "topic_tags": [
+        "standards_compliance",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "ECCE Proprietor",
+        "District Officer",
+        "Inspector",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P37-C01",
+      "source_label": "ECCE Policy 2025, paragraph 37",
+      "section_title": "Child Safety and Protection",
+      "chunk_text": "The ECCE Policy puts in place uniform child safety and protection standards, guidance and procedures for all formal and non-formal ECCE centres based on the best interests of the child.",
+      "topic_tags": [
+        "child_safety_protection",
+        "standards_compliance",
+        "inspection_supervision"
+      ],
+      "role_tags": [
+        "Inspector",
+        "ECCE Proprietor",
+        "Teacher/Caregiver",
+        "Parent/Guardian",
+        "District Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P38-C01",
+      "source_label": "ECCE Policy 2025, paragraph 38",
+      "section_title": "Adherence to Standards",
+      "chunk_text": "MoES will develop and implement policy standards, guidelines and procedures for all aspects of ECCE service delivery. All formal and non-formal providers must adhere to approved standards, guidelines and procedures.",
+      "topic_tags": [
+        "standards_compliance",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P39-C01",
+      "source_label": "ECCE Policy 2025, paragraph 39",
+      "section_title": "Community Mobilisation",
+      "chunk_text": "MoES together with Local Governments will mobilise communities and parents through awareness campaigns to increase understanding of the value of appropriate ECCE programmes. MoES will promote social dialogue with stakeholders on ECCE service delivery.",
+      "topic_tags": [
+        "parent_community_engagement",
+        "communication_awareness",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner",
+        "Community Leader",
+        "Parent/Guardian"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P40-C01",
+      "source_label": "ECCE Policy 2025, paragraph 40",
+      "section_title": "Parenting Programmes",
+      "chunk_text": "The ECCE Policy introduces parenting programmes to be designed, popularised and implemented. Parenting education programmes may be offered at formal and non-formal ECCE centres and primary schools.",
+      "topic_tags": [
+        "parent_community_engagement",
+        "communication_awareness",
+        "child_safety_protection"
+      ],
+      "role_tags": [
+        "Parent/Guardian",
+        "Teacher/Caregiver",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P42-C01",
+      "source_label": "ECCE Policy 2025, paragraph 42",
+      "section_title": "Partnership Regulation",
+      "chunk_text": "MoES will regulate partnerships and collaborations on funding, stakeholder involvement, capacity development and coordination for effective ECCE programming and service delivery.",
+      "topic_tags": [
+        "financing_partnerships",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "CSO/Partner",
+        "Development Partner",
+        "District Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P43-C01",
+      "source_label": "ECCE Policy 2025, paragraph 43",
+      "section_title": "Capacity Development",
+      "chunk_text": "MoES will develop a comprehensive capacity development plan to support capacity building of ECCE staff for effective policy implementation at central and Local Government levels and among other stakeholders.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Teacher/Caregiver",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P44-C01",
+      "source_label": "ECCE Policy 2025, paragraph 44",
+      "section_title": "Local Government ECCE Responsibilities",
+      "chunk_text": "City, District, Municipal and Local Governments will support ECCE implementation by assigning responsibilities for ECCE delivery within their staffing structures.",
+      "topic_tags": [
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "District Officer",
+        "MoES Officer",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P47-C01",
+      "source_label": "ECCE Policy 2025, paragraph 47",
+      "section_title": "Cross-Cutting Issues",
+      "chunk_text": "The Policy mainstreams cross-cutting issues including gender, ICT, sports, environment, health and HIV/AIDS into ECCE service provision and delivery in line with existing policies, standards and guidelines.",
+      "topic_tags": [
+        "cross_cutting_issues",
+        "child_safety_protection"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Teacher/Caregiver",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-06-P48-C01",
+      "source_label": "ECCE Policy 2025, paragraph 48",
+      "section_title": "Referrals",
+      "chunk_text": "Government and stakeholders will support ECCE centres to make linkages and referrals to health, child protection, nutrition and sanitation services.",
+      "topic_tags": [
+        "child_safety_protection",
+        "cross_cutting_issues"
+      ],
+      "role_tags": [
+        "Teacher/Caregiver",
+        "Parent/Guardian",
+        "District Officer",
+        "Health Worker"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-07-P50-C01",
+      "source_label": "ECCE Policy 2025, paragraph 50",
+      "section_title": "Resource Mobilisation",
+      "chunk_text": "Government through MoES will develop a resource mobilisation plan with MoFPED to mobilise funds through the Medium-Term Expenditure Framework for policy implementation, coordination, monitoring and support supervision.",
+      "topic_tags": [
+        "financing_partnerships",
+        "monitoring_evaluation_data"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Development Partner",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-07-P51-C01",
+      "source_label": "ECCE Policy 2025, paragraph 51",
+      "section_title": "Partner Financing",
+      "chunk_text": "MoES may secure financial support from Education Development Partners and non-state actors through appropriate and lawful funding arrangements to support ECCE service delivery.",
+      "topic_tags": [
+        "financing_partnerships"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "Development Partner",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P53-C01",
+      "source_label": "ECCE Policy 2025, paragraph 53",
+      "section_title": "Integrated Implementation",
+      "chunk_text": "The Policy requires MoES to apply an inter-sectoral and integrated approach with all relevant ECCE stakeholders. MoES is the lead agency while other MDAs perform their roles.",
+      "topic_tags": [
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P54-C01",
+      "source_label": "ECCE Policy 2025, paragraph 54",
+      "section_title": "Non-State Establishment and Management",
+      "chunk_text": "Establishment and management of ECCE centres is a responsibility of non-state actors, including private sector, FBOs, CSOs, communities and individual proprietors.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "financing_partnerships",
+        "registration_licensing"
+      ],
+      "role_tags": [
+        "ECCE Proprietor",
+        "Private Provider",
+        "CSO/Partner",
+        "Community Leader"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P57-C01",
+      "source_label": "ECCE Policy 2025, paragraph 57",
+      "section_title": "Role of MoES",
+      "chunk_text": "MoES develops and disseminates standards, guidelines, laws and rules; leads mobilisation; coordinates training, assessment and CPD; designs curricula; develops learning environment guidelines; sets ELDS and BRMS; ensures adherence through monitoring, inspection and supervision; provides technical guidance on establishment, licensing, registration, classification and management; undertakes research; and monitors ECCE programmes.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "standards_compliance",
+        "teacher_caregiver_support",
+        "curriculum_learning_transition",
+        "monitoring_evaluation_data",
+        "communication_awareness"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P58-C01",
+      "source_label": "ECCE Policy 2025, paragraph 58",
+      "section_title": "Role of OPM",
+      "chunk_text": "The Office of the Prime Minister ensures effective multisectoral coordination of ECCE programmes and advises on nutritional programmes implemented by stakeholders in ECCE provision.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "child_safety_protection"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P60-C01",
+      "source_label": "ECCE Policy 2025, paragraph 60",
+      "section_title": "Role of MoGLSD",
+      "chunk_text": "MoGLSD promotes and protects children's rights at ECCE centres, supports probation and family welfare systems, inspects occupational safety and health standards, mobilises communities, trains parents on child rights and protection against abuse, and supports parenting skills.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "child_safety_protection",
+        "parent_community_engagement"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Parent/Guardian",
+        "Teacher/Caregiver",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P61-C01",
+      "source_label": "ECCE Policy 2025, paragraph 61",
+      "section_title": "Role of MoH",
+      "chunk_text": "MoH provides immunisation, deworming, micronutrient supplements, guidance on child health records, safe motherhood, family planning, health and nutrition to parents, guardians and caregivers.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "child_safety_protection"
+      ],
+      "role_tags": [
+        "Health Worker",
+        "Parent/Guardian",
+        "Teacher/Caregiver",
+        "District Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P63-C01",
+      "source_label": "ECCE Policy 2025, paragraph 63",
+      "section_title": "Role of Local Governments",
+      "chunk_text": "Local Governments identify ECCE responsibilities in staffing structures; plan and budget; promote, regulate, license, control, manage and administer ECCE service delivery; inspect, monitor and evaluate ECCE activities; and mobilise and sensitise communities.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "registration_licensing",
+        "inspection_supervision",
+        "monitoring_evaluation_data",
+        "parent_community_engagement"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "CSO/Partner",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P65-C01",
+      "source_label": "ECCE Policy 2025, paragraph 65",
+      "section_title": "Role of Civil Society",
+      "chunk_text": "Civil society supports mobilisation of communities and participates in ECCE service delivery and programmes in accordance with the Policy and related laws and regulations.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "parent_community_engagement",
+        "financing_partnerships"
+      ],
+      "role_tags": [
+        "CSO/Partner",
+        "District Officer",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P66-C01",
+      "source_label": "ECCE Policy 2025, paragraph 66",
+      "section_title": "Role of Private Sector",
+      "chunk_text": "The private sector establishes, manages and administers ECCE services in line with the Policy, standards, guidelines, procedures and relevant legal frameworks.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "registration_licensing",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "Private Provider",
+        "ECCE Proprietor",
+        "District Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P67-C01",
+      "source_label": "ECCE Policy 2025, paragraph 67",
+      "section_title": "Role of Education Development Partners",
+      "chunk_text": "Education Development Partners provide technical and financial support, support monitoring and evaluation, support research into innovative ECCE solutions and advocate and disseminate findings on good practices.",
+      "topic_tags": [
+        "roles_responsibilities",
+        "financing_partnerships",
+        "monitoring_evaluation_data"
+      ],
+      "role_tags": [
+        "Development Partner",
+        "CSO/Partner",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-08-P70-C01",
+      "source_label": "ECCE Policy 2025, paragraph 70",
+      "section_title": "Role of Parents and Guardians",
+      "chunk_text": "Parents and guardians have primary responsibility for caring for their children and providing basic requirements, food, clothing, medical care such as immunisation, moral and cultural guidance and loving environments.",
+      "topic_tags": [
+        "parent_community_engagement",
+        "child_safety_protection"
+      ],
+      "role_tags": [
+        "Parent/Guardian",
+        "Teacher/Caregiver",
+        "Community Leader"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-09-P71-C01",
+      "source_label": "ECCE Policy 2025, paragraph 71",
+      "section_title": "Purpose of M&E",
+      "chunk_text": "MoES will put in place an M&E strategy to assess implementation and impacts, determine whether the Policy is working, understand implementation constraints, make recommendations and describe unintended consequences.",
+      "topic_tags": [
+        "monitoring_evaluation_data"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-09-P72-C01",
+      "source_label": "ECCE Policy 2025, paragraph 72",
+      "section_title": "EMIS and Baseline",
+      "chunk_text": "MoES will develop an M&E Strategy with ECCE indicators incorporated within EMIS as much as possible, develop templates and reporting responsibilities for Local Governments and MoES, and undertake a comprehensive baseline survey.",
+      "topic_tags": [
+        "monitoring_evaluation_data",
+        "emis",
+        "baseline",
+        "reporting"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-09-P73-C01",
+      "source_label": "ECCE Policy 2025, paragraph 73",
+      "section_title": "Research",
+      "chunk_text": "Government will undertake or authorise research studies to measure the impact of ECCE programmes on child development and learning outcomes and demand recommendations to improve service delivery and implementation.",
+      "topic_tags": [
+        "monitoring_evaluation_data"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "Development Partner",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-10-P74-C01",
+      "source_label": "ECCE Policy 2025, paragraph 74",
+      "section_title": "Communication Need",
+      "chunk_text": "An effective communication strategy is needed to attract decision makers and implementers, deliver the ECCE message and build support for desired policy change.",
+      "topic_tags": [
+        "communication_awareness"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-10-P76-C01",
+      "source_label": "ECCE Policy 2025, paragraph 76",
+      "section_title": "Advocacy Events",
+      "chunk_text": "The National ECCE Policy Communications Strategy will include annual advocacy events, awards and campaigns led by MoES and line ministries to raise awareness and promote ECCE implementation.",
+      "topic_tags": [
+        "communication_awareness",
+        "parent_community_engagement"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "POL-2025-10-P78-C01",
+      "source_label": "ECCE Policy 2025, paragraph 78",
+      "section_title": "Audience Adaptation",
+      "chunk_text": "ECCE policy content and packaging must be adapted to the audience\u2019s understanding and interest. Desired behavioural changes should be identified and used to focus and evaluate communication strategy.",
+      "topic_tags": [
+        "communication_awareness",
+        "parent_community_engagement"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "CSO/Partner",
+        "Parent/Guardian"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S19-C01",
+      "source_label": "ECCE Standards 2025, Standard S19",
+      "section_title": "Registration through EMIS",
+      "chunk_text": "Registration of all pre-primary schools in Uganda shall be open-ended and undertaken by the Ministry responsible for education through EMIS.",
+      "topic_tags": [
+        "registration_licensing",
+        "monitoring_evaluation_data",
+        "standards_compliance",
+        "emis"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S20-C01",
+      "source_label": "ECCE Standards 2025, Standard S20",
+      "section_title": "Local Government Licensing",
+      "chunk_text": "Licensing of all pre-primary schools in Uganda shall be undertaken by the respective Local Governments where they are located.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S21-C01",
+      "source_label": "ECCE Standards 2025, Standard S21",
+      "section_title": "Other ECCE Providers",
+      "chunk_text": "Other ECCE service providers are licensed and registered by the respective Local Governments where they are located.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance",
+        "roles_responsibilities"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "Private Provider"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S22-C01",
+      "source_label": "ECCE Standards 2025, Standard S22",
+      "section_title": "Prohibition of Unlicensed Operation",
+      "chunk_text": "All ECCE providers are prohibited from operating when they are not registered and licensed in accordance with approved standards and guidelines.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance",
+        "inspection_supervision",
+        "high_risk_escalation"
+      ],
+      "role_tags": [
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor",
+        "Parent/Guardian"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S23-C01",
+      "source_label": "ECCE Standards 2025, Standard S23",
+      "section_title": "Licence Renewal",
+      "chunk_text": "ECCE licensing is subject to periodic renewal in accordance with approved requirements and continued compliance with standards.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "ECCE Proprietor",
+        "District Officer",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S24-C01",
+      "source_label": "ECCE Standards 2025, Standard S24",
+      "section_title": "Teacher Registration",
+      "chunk_text": "Registration and licensing of all pre-primary school teachers shall be undertaken in line with the National Teacher Policy and National Teachers Act.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "registration_licensing",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "Teacher/Caregiver",
+        "ECCE Proprietor",
+        "Inspector",
+        "District Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S25-C01",
+      "source_label": "ECCE Standards 2025, Standard S25",
+      "section_title": "Unregistered Teaching Prohibited",
+      "chunk_text": "Teaching in pre-primary schools without required registration and licensing is prohibited under the teacher policy framework and standards.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "registration_licensing",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "Teacher/Caregiver",
+        "ECCE Proprietor",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S26-C01",
+      "source_label": "ECCE Standards 2025, Standard S26",
+      "section_title": "National Teacher Council",
+      "chunk_text": "The National Teacher Council enforces teacher registration and licensing requirements for pre-primary teachers under the relevant policy and legal framework.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "registration_licensing",
+        "standards_compliance"
+      ],
+      "role_tags": [
+        "Teacher/Caregiver",
+        "ECCE Proprietor",
+        "Inspector",
+        "MoES Officer"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S35-C01",
+      "source_label": "ECCE Standards 2025, Standard S35",
+      "section_title": "Inspection and Audits",
+      "chunk_text": "The Ministry responsible for education enforces registration standards through periodic reviews, inspections and audits to support compliance with ECCE policy, standards and guidelines.",
+      "topic_tags": [
+        "inspection_supervision",
+        "standards_compliance",
+        "registration_licensing"
+      ],
+      "role_tags": [
+        "Inspector",
+        "District Officer",
+        "MoES Officer",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S36-C01",
+      "source_label": "ECCE Standards 2025, Standard S36",
+      "section_title": "Consequences of Non-compliance",
+      "chunk_text": "There are consequences for ECCE centres, teachers or caregivers operating without proper registration or failing to meet licensing standards.",
+      "topic_tags": [
+        "inspection_supervision",
+        "standards_compliance",
+        "registration_licensing",
+        "high_risk_escalation"
+      ],
+      "role_tags": [
+        "Inspector",
+        "District Officer",
+        "MoES Officer",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S37-C01",
+      "source_label": "ECCE Standards 2025, Standard S37",
+      "section_title": "Complaints and Reporting",
+      "chunk_text": "A formal complaint and reporting system should enable parents, community members and stakeholders to report unsafe environments, unethical behaviour, licensing concerns and compliance issues.",
+      "topic_tags": [
+        "inspection_supervision",
+        "child_safety_protection",
+        "standards_compliance",
+        "parent_community_engagement",
+        "high_risk_escalation"
+      ],
+      "role_tags": [
+        "Parent/Guardian",
+        "Inspector",
+        "District Officer",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S38-C01",
+      "source_label": "ECCE Standards 2025, Standard S38",
+      "section_title": "Routine and Unannounced Inspections",
+      "chunk_text": "ECCE centres, teachers and caregivers shall be subjected to routine and unannounced inspections to support ongoing compliance with approved standards, guidelines and licensing requirements.",
+      "topic_tags": [
+        "inspection_supervision",
+        "standards_compliance",
+        "registration_licensing"
+      ],
+      "role_tags": [
+        "Inspector",
+        "District Officer",
+        "ECCE Proprietor",
+        "Teacher/Caregiver"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S39-C01",
+      "source_label": "ECCE Standards 2025, Standard S39",
+      "section_title": "Public Register",
+      "chunk_text": "A register for ECCE teachers and caregivers should support parents and guardians to verify the legitimacy and compliance status of personnel working with children.",
+      "topic_tags": [
+        "teacher_caregiver_support",
+        "standards_compliance",
+        "parent_community_engagement",
+        "child_safety_protection"
+      ],
+      "role_tags": [
+        "Parent/Guardian",
+        "Teacher/Caregiver",
+        "ECCE Proprietor",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "STD-2025-023-S40-C01",
+      "source_label": "ECCE Standards 2025, Standard S40",
+      "section_title": "Institution Categories",
+      "chunk_text": "ECCE provision should be classified by programme and institution category, including formal ECCE, non-formal ECCE, day care and pre-primary education, so registration, licensing and standards are applied appropriately.",
+      "topic_tags": [
+        "registration_licensing",
+        "standards_compliance",
+        "policy_foundation"
+      ],
+      "role_tags": [
+        "ECCE Proprietor",
+        "District Officer",
+        "Inspector",
+        "Parent/Guardian"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "GUI-2025-156-G156-C01",
+      "source_label": "ECCE Guidelines 2025, Guideline G156",
+      "section_title": "EMIS Onboarding",
+      "chunk_text": "Coding and assigning profiles to ECCE centres for EMIS onboarding should be based on formal application, proof of prior Local Government registration and the EMIS number of the nearest primary school.",
+      "topic_tags": [
+        "monitoring_evaluation_data",
+        "registration_licensing",
+        "emis",
+        "curriculum_learning_transition"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "ECCE Proprietor",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "GUI-2025-157-G157-C01",
+      "source_label": "ECCE Guidelines 2025, Guideline G157",
+      "section_title": "Primary School Linkage",
+      "chunk_text": "ECCE centres should be assigned profiles on EMIS and linked to nearest primary schools to support catchment planning, transition planning and coordination between ECCE and primary education.",
+      "topic_tags": [
+        "monitoring_evaluation_data",
+        "emis",
+        "curriculum_learning_transition",
+        "access_equity_inclusion"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "ECCE Proprietor",
+        "Inspector"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    },
+    {
+      "chunk_id": "GUI-2025-158-G158-C01",
+      "source_label": "ECCE Guidelines 2025, Guideline G158",
+      "section_title": "Data and Coding",
+      "chunk_text": "ECCE data and coding procedures should support timely and accurate centre profiling, strengthen data submission and allow planning for access, quality, transition and service delivery needs.",
+      "topic_tags": [
+        "monitoring_evaluation_data",
+        "emis",
+        "registration_licensing",
+        "access_equity_inclusion"
+      ],
+      "role_tags": [
+        "MoES Officer",
+        "District Officer",
+        "Inspector",
+        "ECCE Proprietor"
+      ],
+      "approval_status": "verified_for_prototype_build",
+      "review_status": "verified_for_prototype_build"
+    }
+  ]
+}
